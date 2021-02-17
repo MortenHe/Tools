@@ -1,0 +1,26 @@
+{
+  "name": "ahk-sampler",
+  "version": "1.0.0",
+  "description": "create ahk sampler script",
+  "main": "create-ahk-sampler-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenHe/Tools.git"
+  },
+  "keywords": [
+    "ahk",
+    "sampler"
+  ],
+  "author": "Martin Helfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MortenHe/Tools/issues"
+  },
+  "homepage": "https://github.com/MortenHe/Tools#readme",
+  "dependencies": {
+    "fs-extra": "^9.1.0"
+  }
+}
