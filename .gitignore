@@ -1,2 +1,4 @@
 ahk-sampler/config.json
 node_modules/
+vendor
+leadsheet-creator/*.pdf
