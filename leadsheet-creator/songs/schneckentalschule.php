@@ -6,22 +6,51 @@ $song = [
   "artist" => "Martin Helfer",
   "parts" => [
     "verse" => [
-      "D", "hm", "A-G", "D",
-      "f#m", "hm", "E", "A",
+      "D",
+      "hm",
+      "A-G",
+      "D",
+      "f#m",
+      "hm",
+      "E",
+      "A",
     ],
     "bridge" => [
-      "G", "A", "hm", "E",
-      "em", "em", "A", "A"
+      "G",
+      "A",
+      "hm",
+      "E",
+      "em",
+      "em",
+      "A",
+      "A"
     ],
     "ref" => [
-      "D", "G-A", "D", "hm",
-      "G", "A", "D", "A",
-      "D", "G-A", "D", "hm",
-      "G", "A", "D", "D"
+      "D",
+      "G-A",
+      "D",
+      "hm",
+      "G",
+      "A",
+      "D",
+      "A",
+      "D",
+      "G-A",
+      "D",
+      "hm",
+      "G",
+      "A",
+      "D",
+      "D"
     ],
     "end" => [
-      "G", "A", "D", "D",
-      "G", "A", "D (ferm.)"
+      "G",
+      "A",
+      "D",
+      "D",
+      "G",
+      "A",
+      "D (ferm.)"
     ]
   ]
 ];
@@ -29,7 +58,7 @@ $song = [
 //Ablauf
 $seq = [
   ["ref", "Kennt ihr die coole Schneckentalschule?"],
-  ["verse", "Die Jacke an,<br>den Ranzen an"],
+  ["verse", "Die Jacke an,<br>den Ranzen auf"],
   ["bridge", "Wo kommt die<br>Kartoffel her?"],
   ["ref", "Kennt ihr die coole Schneckentalschule?"],
   ["verse", "Die Heft raus<br>und schnell notiert"],

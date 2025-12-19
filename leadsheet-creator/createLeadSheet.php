@@ -3,11 +3,11 @@
 require_once __DIR__ . '/../vendor/autoload.php';
 
 //Song-Infos laden
-//include('songs/be-alright.php');
+include('songs/be-alright.php');
 //include('songs/this-song.php');
 //include('songs/near-you.php');
 //include('songs/schneckentalschule.php');
-include('songs/jeden-morgen-geh-ich-in-die-schule.php');
+//include('songs/jeden-morgen-geh-ich-in-die-schule.php');
 
 //Labels fuer PDF
 $label = [
